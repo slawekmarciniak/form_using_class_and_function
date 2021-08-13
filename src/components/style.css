@@ -25,9 +25,11 @@
 input {
     display: block;
     margin-bottom: 10px;
+    width: 120px;
 }
  select {
      margin-bottom: 10px;
+     width: 120px;
  }
 
 form {
